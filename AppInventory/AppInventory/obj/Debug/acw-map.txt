@@ -1,0 +1,12 @@
+AppInventory.MainActivity, Inventario;md59dc3972b10cce14271ab8c16047425ed.MainActivity
+AppInventory.MainActivity, Inventario, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md59dc3972b10cce14271ab8c16047425ed.MainActivity
+AppInventory.MainActivity;md59dc3972b10cce14271ab8c16047425ed.MainActivity
+appinventory.MainActivity;md59dc3972b10cce14271ab8c16047425ed.MainActivity
+AppInventory.Controle.LaserReciver, Inventario;md56ab773b4654dd8a4043bab340a98b0c5.LaserReciver
+AppInventory.Controle.LaserReciver, Inventario, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md56ab773b4654dd8a4043bab340a98b0c5.LaserReciver
+AppInventory.Controle.LaserReciver;md56ab773b4654dd8a4043bab340a98b0c5.LaserReciver
+appinventory.controle.LaserReciver;md56ab773b4654dd8a4043bab340a98b0c5.LaserReciver
+AppInventory.Controle.ListViewAdapter, Inventario;md56ab773b4654dd8a4043bab340a98b0c5.ListViewAdapter
+AppInventory.Controle.ListViewAdapter, Inventario, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md56ab773b4654dd8a4043bab340a98b0c5.ListViewAdapter
+AppInventory.Controle.ListViewAdapter;md56ab773b4654dd8a4043bab340a98b0c5.ListViewAdapter
+appinventory.controle.ListViewAdapter;md56ab773b4654dd8a4043bab340a98b0c5.ListViewAdapter

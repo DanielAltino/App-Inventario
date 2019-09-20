@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/linearLayout2"
+    android:background="#303030" >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayout4">
+        <ImageView
+            android:src="@drawable/boxps"
+            android:id="@+id/imgLogo"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="5.0dp"
+            android:layout_marginTop="5.0dp"
+            android:focusable="false" />
+        <EditText
+            android:inputType="textMultiLine"
+            android:id="@+id/txtPartNumberHide"
+            android:editable="false"
+            android:focusable="true"
+            android:visibility="visible"
+            android:layout_width="0.5dp"
+            android:layout_height="match_parent" />
+        <ImageButton
+            android:src="@android:drawable/ic_menu_delete"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="55.0dp"
+            android:id="@+id/btnClean" />
+        <ImageButton
+            android:src="@android:drawable/ic_menu_save"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="55.0dp"
+            android:id="@+id/btnExport" />
+    </LinearLayout>
+    <TextView
+        android:text="Part Number"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/lblPartnumber"
+        android:layout_marginTop="28.5dp"
+        android:layout_marginLeft="5.5dp"
+        android:focusable = "false"
+        android:editable = "false"/>
+    <EditText
+        android:inputType="text"
+        android:maxLines="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtPartNumber"
+        android:layout_marginLeft="5.5dp" />
+    <TextView
+        android:text="Quantidade"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/lblQtd"
+        android:layout_marginTop="7.0dp"
+        android:layout_marginLeft="5.5dp" />
+    <EditText
+        android:inputType="number"
+        android:layout_width="62.0dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtQtd"
+        android:layout_marginLeft="5.5dp" />
+    <TextView
+        android:text="Últ.Lido:"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView1"
+        android:layout_marginLeft="5.5dp" />
+    <TextView
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5.5dp"
+        android:id="@+id/lblUltLido" />
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayout3">
+        <Button
+            android:text="Inserir"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/btnInserir"
+            android:layout_marginRight="10.0dp"
+            android:layout_marginLeft="25.0dp" />
+        <Button
+            android:text="Novo"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginRight="5.0dp"
+            android:id="@+id/btnNovo" />
+        <CheckBox
+            android:text="Buscar"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/chkBusca" />
+    </LinearLayout>
+    <ListView
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/lvDados"
+        android:layout_marginLeft="5.5dp"
+        android:layout_marginRight="5.5dp"
+        android:layout_marginBottom="5.5dp" />
+</LinearLayout>

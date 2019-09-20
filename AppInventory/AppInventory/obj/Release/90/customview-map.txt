@@ -1,0 +1,16 @@
+Button;obj\Release\90\res\layout\main.xml
+CheckBox;obj\Release\90\res\layout\main.xml
+color;obj\Release\90\res\values\style.xml
+EditText;obj\Release\90\res\layout\main.xml
+ImageButton;obj\Release\90\res\layout\main.xml
+ImageView;obj\Release\90\res\layout\main.xml
+item;obj\Release\90\res\values\style.xml
+LinearLayout;obj\Release\90\res\layout\listviewlayout.xml
+LinearLayout;obj\Release\90\res\layout\main.xml
+ListView;obj\Release\90\res\layout\main.xml
+resources;obj\Release\90\res\values\strings.xml
+resources;obj\Release\90\res\values\style.xml
+string;obj\Release\90\res\values\strings.xml
+style;obj\Release\90\res\values\style.xml
+TextView;obj\Release\90\res\layout\listviewlayout.xml
+TextView;obj\Release\90\res\layout\main.xml

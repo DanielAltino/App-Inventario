@@ -1,0 +1,13 @@
+C:\Users\dparedes\Documents\Git\App Inventario\AppInventory\AppInventory\obj\Release\90\android\assets\Inventario.dll
+C:\Users\dparedes\Documents\Git\App Inventario\AppInventory\AppInventory\obj\Release\90\android\assets\Java.Interop.dll
+C:\Users\dparedes\Documents\Git\App Inventario\AppInventory\AppInventory\obj\Release\90\android\assets\Mono.Android.dll
+C:\Users\dparedes\Documents\Git\App Inventario\AppInventory\AppInventory\obj\Release\90\android\assets\mscorlib.dll
+C:\Users\dparedes\Documents\Git\App Inventario\AppInventory\AppInventory\obj\Release\90\android\assets\SQLite-net.dll
+C:\Users\dparedes\Documents\Git\App Inventario\AppInventory\AppInventory\obj\Release\90\android\assets\SQLitePCLRaw.batteries_green.dll
+C:\Users\dparedes\Documents\Git\App Inventario\AppInventory\AppInventory\obj\Release\90\android\assets\SQLitePCLRaw.batteries_v2.dll
+C:\Users\dparedes\Documents\Git\App Inventario\AppInventory\AppInventory\obj\Release\90\android\assets\SQLitePCLRaw.core.dll
+C:\Users\dparedes\Documents\Git\App Inventario\AppInventory\AppInventory\obj\Release\90\android\assets\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Users\dparedes\Documents\Git\App Inventario\AppInventory\AppInventory\obj\Release\90\android\assets\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\dparedes\Documents\Git\App Inventario\AppInventory\AppInventory\obj\Release\90\android\assets\System.Core.dll
+C:\Users\dparedes\Documents\Git\App Inventario\AppInventory\AppInventory\obj\Release\90\android\assets\System.dll
+C:\Users\dparedes\Documents\Git\App Inventario\AppInventory\AppInventory\obj\Release\90\android\assets\System.Runtime.Serialization.dll
